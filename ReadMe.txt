@@ -1,3 +1,7 @@
-1.http://192.168.20.40:8080/datacvgbi
+﻿
+蒋 攀
 
-2��  DatacvgDemo  / Datacvg123
+手机：186-6124-5076
+邮箱：jiang.pan@outlook.com
+
+这是我的第一个GitHub项目！
